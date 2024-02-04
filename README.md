@@ -6,5 +6,4 @@ Libraries Used
 pandas: A powerful data manipulation library.
 numpy: A library for numerical operations in Python.
 matplotlib: A popular Python data visualization library.
-seaborn: A statistical data visualization library based on Matplotlib.
 scikit-learn: A machine learning library for building the decision tree classifier.
